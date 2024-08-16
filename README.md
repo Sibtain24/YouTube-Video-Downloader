@@ -2,6 +2,8 @@
 
 YouTube Video Downloader is a GUI based application that is capable of downloading YouTube Videos by pasting the link of the video. Currently, there is no option to select a custom resolution, but I will keep updating and improving this application.
 
+![YouTube Video Downloader](https://github.com/user-attachments/assets/abda1864-ebc0-42f1-ba21-4e7e65d3fa70)
+
 # How to run the Program?
 
 1) Download the 'main.py' file or you can download the installer(.exe) from this website: https://mytechinstructor.wixsite.com/youtube/download
